@@ -17,6 +17,6 @@ public:
             return false;
         }
 
-        return count;
+        return true;
     }
 };
