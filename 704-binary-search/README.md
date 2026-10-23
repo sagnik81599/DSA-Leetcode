@@ -40,4 +40,4 @@
 
 ---
 
-**My Solution:** [704-Binary-Search.cpp](./704-Binary-Search.cpp)
+**My Solution:** [704-Binary-Search.java](./704-Binary-Search.java)
